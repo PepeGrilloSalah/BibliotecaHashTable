@@ -6,6 +6,7 @@ import co.edu.konradlorenz.view.Vista;
 public class Controlador {
 
     public void run() {
-        
+    Vista.mostrarMenu();
+
     }
 }
